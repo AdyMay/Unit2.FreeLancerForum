@@ -1,0 +1,14 @@
+h1,
+h2,
+p,
+li {
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
+p,
+li {
+  font-size: 20px;
+}
